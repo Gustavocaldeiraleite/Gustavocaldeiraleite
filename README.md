@@ -21,7 +21,7 @@ Também estou explorando o mundo do NoSQL e estudando para me especializar em Da
  Fique à vontade para explorá-los e dar feedback.
 ##
 Contato
-
+- Dio.me https://www.dio.me/users/Gustavocalleite 
 - LinkedIn:  https://www.linkedin.com/in/gustavocaldeiraleite/ 
 - Email: gustavocalleite@gmail.com
  
