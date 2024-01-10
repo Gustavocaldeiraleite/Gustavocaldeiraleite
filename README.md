@@ -1,5 +1,5 @@
 
-Olá, me chamo Gustavo, tenho 18 anos Dev desde começo de 2023
+Olá, me chamo Gustavo, tenho 18 anos desevolvedor backend desde começo de 2023
 Atualmente, estou focado em aprimorar minhas habilidades em programação, especialmente em Python e SQL
 Também estou explorando o mundo do NoSQL e estudando para me especializar em Data Cience.
 
